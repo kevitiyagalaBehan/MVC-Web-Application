@@ -31,7 +31,7 @@
                         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/create">Add Product</a>
+                        <a class="nav-link" href="create.php">Add Product</a>
                     </li>
                 </ul>
             </div>
