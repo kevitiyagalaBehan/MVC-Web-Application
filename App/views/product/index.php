@@ -58,7 +58,7 @@
                     <td>This is an example of a product description.</td>
                     <td>$19.99</td>
                     <td>
-                        <a href="/edit?id=1" class="btn btn-primary btn-sm">Edit</a>
+                        <a href="edit.php?id=1" class="btn btn-primary btn-sm">Edit</a>
                         <a href="/delete?id=1" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?');">Delete</a>
                     </td>
                 </tr>
